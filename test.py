@@ -6,4 +6,4 @@ output = json
 region = us-east-1
 AWS_KEY_ENABLED=TRUE
 VALIDITY=TRUE;
-ROLE=admin
+ROLE=admin;
